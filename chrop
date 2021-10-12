@@ -1,7 +1,5 @@
-# unzip this in /home/chronos/<user>/MyFiles/ and execute this in the shell,
-# type "cd"
-# type "cd MyFiles"
-# type "cd chrop"
-# type "chmod ugo+rwx chrop"
+# must have linux for chrome os installed.
+# unzip this in the linux files and execute this in the shell,
+# type "chmod +x ./chrop"
 # then type "sudo ./chrop"
 echo "chrop is loading.."
