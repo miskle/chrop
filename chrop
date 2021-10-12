@@ -1,4 +1,6 @@
 # unzip and execute this in the shell,
+# type "cd"
+# type "cd MyFiles"
 # type "cd chrop"
 # type "chmod ugo+rwx chrop"
 # then type "sudo ./chrop"
