@@ -1,0 +1,5 @@
+# unzip and execute this in the shell,
+# type "cd chrop"
+# type "chmod ugo+rwx chrop"
+# then type "sudo ./chrop"
+echo "chrop is loading.."
